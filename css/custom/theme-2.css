@@ -80,12 +80,12 @@ just change the color code  and rgba value. The whole theme color will be change
 
 .theme_bg_color
 {
-	background: #ffc300;
+	background: #c51e3a;
 }
 
 .main-slider .tp-bullets.preview3 .bullet:hover, 
 .main-slider .tp-bullets.preview3 .bullet.selected {
-  background: #ffc300 !important;
+  background: #c51e3a !important;
 }
 
 /* Filter the 'color' value classes*/
@@ -161,7 +161,7 @@ just change the color code  and rgba value. The whole theme color will be change
 
 
 .thm-color:before {
-	color:#ffc300;
+	color:#c51e3a;
 }
 
 
@@ -213,32 +213,32 @@ figure.effect-bubba figcaption::after,
 
 
 
-
+`
 
 
 
 .border-color {
-	border-color: #ffc300;
+	border-color: #c51e3a;
 }
 
 .main-slider .tp-bullets.preview3 .bullet,
 .main-slider .tp-bullets.preview3 .bullet{
-  border-color: #ffc300 !important;
+  border-color: #c51e3a !important;
 }
 
 .sponsors-style-two .tooltip.top .tooltip-arrow {
-    border-top-color: #ffc300;
+    border-top-color: #c51e3a;
 }
 
 /* logo background */
 
-.main-header .logo a {
-    background-image: url(../../images/home/logo1.png);
-}
+/*.main-header .logo a {*/
+    /*background-image: url(../../images/home/logo.png);*/
+/*}*/
 
-.main-header.fixed-header .logo a {
-    background-image: url(../../images/home/smallogo1.png);
-}
+/*.main-header.fixed-header .logo a {*/
+    /*background-image: url(../../images/home/logo-small.png);*/
+/*}*/
 
 
 
